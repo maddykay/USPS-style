@@ -1,4 +1,3 @@
-/* Header Styles */
 .header {
   background-image: url(../images/upsBackground.png);
   background-size: cover;
@@ -10,7 +9,7 @@
 #pageTopic {
   text-align: center;
 }
-/* Primary Color */
+
 .colorContainer {
   display: inline-block;
   margin: 15px;

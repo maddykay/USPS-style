@@ -54,13 +54,12 @@
 .lightGreen {
   background-color: #8ABE48;
 }
-/* Typography CSS */
+
 .type_container {
    display: inline-block;
    margin: 20px;
 }
 
-/* UI Elements */
 .button {
    display: inline-block;
    padding: 15px;
@@ -101,4 +100,18 @@
 }
 .sectionHead {
   border-bottom: 8px solid #DDDDDD;
+}
+
+title {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: rgba(0, 0, 0, .7);
+}
+
+.logos {
+  justify-content: center;
 }
